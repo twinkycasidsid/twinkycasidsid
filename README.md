@@ -11,7 +11,7 @@ Curiosity drives my work. I learn by building, experimenting, and improving one 
 ## 🧠 Languages & Tools
 
 <!-- Row of icons -->
- <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,react,reactnative,dotnet,php,firebase,mysql,git,github,figma,tailwind,vscode&perline=9" alt="Tech Stack Icons" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,python,react,reactnative,,php,firebase,mysql,git,github,figma,tailwind,vscode&perline=9" alt="Tech Stack Icons" />
 
 ---
 
