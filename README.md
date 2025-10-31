@@ -1,11 +1,12 @@
-# 👋 Hey, I'm Twinky Casidsid (Winks)
+<div align="center">
+# Twinky / Winks
 
-### 💡 Aspiring Software Engineer 
+### ⋆˙⟡♡ Aspiring Software Engineer ⋆˙⟡♡
 
 I'm a tech enthusiast passionate about crafting **practical, impactful software**.  
 I enjoy turning ideas into real-world applications — clean, efficient, and purposeful.  
 Curiosity drives my work. I learn by building, experimenting, and improving one project at a time.
-
+</div>
 ---
 
 ## 🧠 Tech Stack
@@ -72,13 +73,3 @@ Curiosity drives my work. I learn by building, experimenting, and improving one 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-### 📍 Visitor Count
-[![](https://visitcount.itsvg.in/api?id=twinkycasidsid&icon=6&color=10)](https://visitcount.itsvg.in)
-
----
-
-### ✨ Fun Fact
-When I’m not coding, I explore new frameworks, tweak UI layouts, or experiment with IoT projects.  
-Every repo tells a part of my journey.
