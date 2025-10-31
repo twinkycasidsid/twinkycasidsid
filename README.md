@@ -1,6 +1,6 @@
 <div align="center">
-# Twinky / Winks
-
+<h1><b>Twinky Casidsid (Winks)</b></h1>
+  
 ### ⋆˙⟡♡ Aspiring Software Engineer ⋆˙⟡♡
 
 I'm a tech enthusiast passionate about crafting **practical, impactful software**.  
