@@ -7,7 +7,6 @@ I'm a tech enthusiast passionate about crafting **practical, impactful software*
 I enjoy turning ideas into real-world applications — clean, efficient, and purposeful.  
 Curiosity drives my work. I learn by building, experimenting, and improving one project at a time.
 </div>
----
 
 ## 🧠 Tech Stack
 
