@@ -8,6 +8,13 @@ I enjoy turning ideas into real-world applications — clean, efficient, and pur
 Curiosity drives my work. I learn by building, experimenting, and improving one project at a time.
 </div>
 
+## 🌐 Portfolio
+
+👉 **Visit my personal website:**  
+**https://twinkycasidsid.github.io/twinkyportfolio/**
+
+Explore my featured projects, technical skills, and development journey in one place.
+
 ## 🧠 Languages & Tools
 
 <!-- Row of icons -->
