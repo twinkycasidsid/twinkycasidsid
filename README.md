@@ -1,7 +1,7 @@
 <div align="center">
 <h1><b>Twinky Casidsid (Winks)</b></h1>
   
-### ⋆˙⟡♡ Aspiring Software Engineer ⋆˙⟡♡
+### ⋆˙⟡♡ Aspiring Software Developer ⋆˙⟡♡
 
 I'm a tech enthusiast passionate about crafting **practical, impactful software**.  
 I enjoy turning ideas into real-world applications — clean, efficient, and purposeful.  
