@@ -11,7 +11,7 @@ Curiosity drives my work. I learn by building, experimenting, and improving one 
 ## 🌐 Portfolio
 
 👉 **Visit my personal website:**  
-**https://twinkycasidsid.github.io/twinkyportfolio/**
+**[https://twinkycasidsid.github.io/twinkyportfolio/](https://twinky-casidsid.vercel.app/)**
 
 Explore my featured projects, technical skills, and development journey in one place.
 
